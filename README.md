@@ -16,7 +16,7 @@ This project was born aiming to facilitate JSON data reading.
 
 <br>
 
-Initially focused on consuming and making public available IBGE (Instituto Brasileiro de Geografia e Estatística) information through an API. 
+Initially focused on consuming and showing public available IBGE (Instituto Brasileiro de Geografia e Estatística) information through an API. 
 
 <br>
 
